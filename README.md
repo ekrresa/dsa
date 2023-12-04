@@ -1,2 +1,2 @@
-# dsa
-Data structures and algorithms solutions in multiple languages
+# Data Structures and Algorithms
+Data structures and algorithm solutions in Javascript and Golang
